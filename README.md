@@ -1,2 +1,2 @@
 # ex4-Applied-Machine-Learning
-Linear Classification, Gradient Descent, Ridge Regression, Logistic Regression
+fine-tuning and tweaking Multi-Layer Perceptron (MLP), Convolutional Neural Network (CNN) models.
